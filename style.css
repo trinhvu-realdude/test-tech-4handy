@@ -1,15 +1,18 @@
 body {
     height: 100vh;
 }
+
 .title {
 
     color: black;
     text-align: center;
 }
+
 table {
     width: 100%;
     border: 1px solid black;
 }
+
 table tbody tr td {
     text-align: center;
 }
